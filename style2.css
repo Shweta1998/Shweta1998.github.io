@@ -1,0 +1,13 @@
+body{
+	background-image: url("i.jpg");
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-color: orange;
+}
+a:visited{
+	color:blue;
+}
+a:hover{
+	color:red;
+}
